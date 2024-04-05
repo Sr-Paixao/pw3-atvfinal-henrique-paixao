@@ -1,0 +1,20 @@
+{
+    "turmas": [],
+    "sigla": [
+        {
+            "id": 1,
+            "name": "Dsn1"
+        },
+
+        {
+            "id": 2,
+            "name": "Dsn 2"
+        },
+
+        {
+            "id": 3,
+            "name": "Dsn 3"
+        }
+
+    ]
+}

@@ -1,0 +1,18 @@
+.select_control{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.select_control label{
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+}
+
+.select_control select{
+    padding: .7em;
+    border-radius: 0;
+    border: 1px black;
+    color: #7b7b7b;
+}
